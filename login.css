@@ -1,0 +1,18 @@
+h1{
+    height:30px;
+  }
+  
+  form {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      margin: 0 auto;
+    }
+    
+    label, input {
+      margin: 5px 0;
+    }
+    
+    button {
+      margin-top: 10px;
+    }
